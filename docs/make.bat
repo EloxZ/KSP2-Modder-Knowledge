@@ -1,6 +1,5 @@
 @ECHO OFF
 
-py -3 -m pip install sphinx-rtd-dark-mode
 
 pushd %~dp0
 
