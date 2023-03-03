@@ -1,5 +1,7 @@
 @ECHO OFF
 
+py -3 -m pip install sphinx-rtd-dark-mode
+
 pushd %~dp0
 
 REM Command file for Sphinx documentation
