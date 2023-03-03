@@ -1,9 +1,3 @@
-Template for the Read the Docs tutorial
+KSP2 Modder Knowledge
 =======================================
-
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+Open-source Wiki where modders can post articles, guides, tutorials or findings to share their knowledge with the community.
