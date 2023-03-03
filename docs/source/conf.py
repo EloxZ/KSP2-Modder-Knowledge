@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'KSP2 Modder Knowledge'
+copyright = '2023, EloxZ'
+author = 'EloxZ'
 
 release = '0.1'
 version = '0.1.0'
