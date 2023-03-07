@@ -6,6 +6,3 @@ The goal of this project is to conceive an Open-source Mod Wiki for Kerbal Space
 
 .. note::
    This project is under active development.
-
-.. toctree:: 
-   api
