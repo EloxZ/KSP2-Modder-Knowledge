@@ -8,4 +8,7 @@ The goal of this project is to conceive an Open-source Mod Wiki for Kerbal Space
    This project is under active development.
 
 .. toctree:: 
-   api
+   :hidden:
+
+   self
+   api/api
